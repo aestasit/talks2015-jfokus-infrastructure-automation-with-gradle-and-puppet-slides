@@ -1,5 +1,6 @@
-# Infrastructure automation with Gradle and Puppet
+# Infrastructure Automation with Gradle and Puppet
 
-Slide deck for workshop "**Infrastructure automation with Gradle and Puppet**" given at **JFokus** (Stockholm, Sweden), *2015* by *Andrey Adamovich*.
+Slide deck of presentation "**Infrastructure Automation with Gradle and Puppet**" given at **JFokus** (Stockholm), *2015* by *Andrey Adamovich*.
 
 Just clone the repository and open `slides.html` in your browser.
+
